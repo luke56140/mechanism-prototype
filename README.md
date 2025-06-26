@@ -21,7 +21,8 @@ With a partner, the objective was to design, simulate, and prototype a compact m
 <h2> Skills and Tools Used </h2>
 
 - <b>Mechanical Design & Kinematics</b> 
-- <b>CAD: Auto Desk Inventor</b> 
+- <b>CAD: Auto Desk Inventor</b>
+- <b>Gear Design Accelerator: Auto Desk Inventor</b>
 - <b>Dynamic Simulation: Auto Desk Inventor</b> 
 - <b>3D Printing using PLA</b> 
 - <b>Technical Documentation & Team Collaboration</b> 
@@ -33,12 +34,12 @@ With a partner, the objective was to design, simulate, and prototype a compact m
 - <b>Scored 100% for the physical demonstration.</b>
 
 <p align="center">
-Aircraft Bracket Engineering Drawing: <br/>
-<img src="https://i.imgur.com/62EF45q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Mechanism Prototype Engineering Drawing: <br/>
+<img src="https://i.imgur.com/lbSmlsQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-ANSYS Stress Contour Plots (tension on the left, compression on the right): <br/>
-<img src="https://i.imgur.com/51gD7cI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Ball Path (left) & Physical Prototype (right). <br/>
+<img src="https://i.imgur.com/9EPrWFS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
