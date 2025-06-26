@@ -35,11 +35,11 @@ With a partner, the objective was to design, simulate, and prototype a compact m
 
 <p align="center">
 Mechanism Prototype Engineering Drawing: <br/>
-<img src="https://i.imgur.com/lbSmlsQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/lbSmlsQ.png" height="80%" width="80%" alt="Mechanism Prototype"/>
 <br />
 <br />
 Ball Path (left) & Physical Prototype (right). <br/>
-<img src="https://i.imgur.com/9EPrWFS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9EPrWFS.png" height="80%" width="80%" alt="Mechanism Prototype"/>
 <br />
 <br />
 
